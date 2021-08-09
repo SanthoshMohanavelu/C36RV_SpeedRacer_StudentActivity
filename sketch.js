@@ -3,7 +3,7 @@ var backgroundImage;
 var bgImg;
 var database;
 var form, player;
-var playerCount;
+var playerCount
 
 function preload() {
   backgroundImage = loadImage("./assets/background.png");
